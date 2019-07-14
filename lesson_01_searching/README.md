@@ -1,4 +1,4 @@
-#Lesson 01 - Searching
+# Lesson 01 - Searching
 
 Commands used in this lesson:
 
@@ -12,7 +12,7 @@ Commands used in this lesson:
 | ⌘ ,          | User settings               |
 | ⌘K ⌘S        | Keyboard shortcuts          |
 
-###Automated search for selection
+### Automated search for selection
 
 Install the [multi command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) extension.
 
